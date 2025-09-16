@@ -1,1 +1,3 @@
 I am a file file which will be used to the bug.
+
+fix another bug
